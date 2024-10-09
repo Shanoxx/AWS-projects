@@ -1,0 +1,19 @@
+Oto kilka przykładów projektów praktycznych, które mogą pomóc Ci zdobyć doświadczenie w zabezpieczaniu obciążeń AWS:
+
+Bezpieczna Aplikacja Webowa: Stwórz prostą aplikację webową i wdroż ją na AWS. Skonfiguruj zabezpieczenia takie jak grupy bezpieczeństwa (security groups), role IAM (Identity and Access Management), oraz usługi ochrony przed atakami, np. AWS WAF (Web Application Firewall) i AWS Shield.
+
+Monitorowanie i Audyt: Skonfiguruj system monitorowania i audytu dla obciążeń na AWS. Możesz użyć Amazon CloudWatch do monitorowania i logowania zdarzeń oraz AWS CloudTrail do rejestrowania działań użytkowników.
+
+Bezpieczne Środowisko CI/CD: Zbuduj środowisko ciągłej integracji i dostarczania (CI/CD) w AWS przy użyciu narzędzi takich jak AWS CodePipeline, AWS CodeBuild i AWS CodeDeploy. Skonfiguruj odpowiednie zabezpieczenia, aby chronić procesy wdrożeniowe i kod.
+
+Zabezpieczona Architektura Chmurowa: Opracuj architekturę chmurową dla aplikacji z uwzględnieniem zabezpieczeń. Na przykład, możesz zaprojektować architekturę mikroserwisów z użyciem AWS ECS (Elastic Container Service) i zastosować zabezpieczenia na poziomie kontenerów i komunikacji między usługami.
+
+Bezpieczeństwo S3: Skonfiguruj bezpieczne przechowywanie danych w Amazon S3. Wykorzystaj funkcje takie jak szyfrowanie danych w spoczynku (server-side encryption), polityki bucketów, oraz kontrole dostępu.
+
+Zarządzanie Kluczami: Użyj AWS KMS (Key Management Service) do zarządzania kluczami szyfrującymi. Możesz stworzyć i zarządzać kluczami szyfrowania dla różnych usług i aplikacji.
+
+Audyt i Zgodność: Zbuduj rozwiązanie do audytu i zgodności w AWS. Wykorzystaj AWS Config do monitorowania zmian w konfiguracji i zapewnienia zgodności z politykami bezpieczeństwa.
+
+Symulacja Ataku: Przeprowadź symulację ataku na swoją aplikację chmurową, aby zidentyfikować słabe punkty. Możesz użyć narzędzi takich jak AWS Inspector lub przeprowadzić własne testy penetracyjne.
+
+Wszystkie te projekty mogą być dokumentowane na GitHubie lub w portfoliu, co pomoże Ci zaprezentować swoje umiejętności potencjalnym pracodawcom.
